@@ -12,10 +12,10 @@ function Header({ cartSize }) {
   console.log(cartSize);
   return (
     <Container>
-      <Link to="/">
+      <Link to="/react-rocketshoes/">
         <img src={logo} alt="Rocketshoes" />
       </Link>
-      <Cart to="/cart">
+      <Cart to="/react-rocketshoes/cart/">
         <div>
           <strong>My Cart</strong>
           <span>{cartSize} itens</span>
