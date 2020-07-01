@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/react-rocketshoes/static/js/main.f22e699a.chunk.js",
+    "main.js.map": "/react-rocketshoes/static/js/main.f22e699a.chunk.js.map",
+    "runtime-main.js": "/react-rocketshoes/static/js/runtime-main.3e04e932.js",
+    "runtime-main.js.map": "/react-rocketshoes/static/js/runtime-main.3e04e932.js.map",
+    "static/css/2.d34346ea.chunk.css": "/react-rocketshoes/static/css/2.d34346ea.chunk.css",
+    "static/js/2.b33d536a.chunk.js": "/react-rocketshoes/static/js/2.b33d536a.chunk.js",
+    "static/js/2.b33d536a.chunk.js.map": "/react-rocketshoes/static/js/2.b33d536a.chunk.js.map",
+    "index.html": "/react-rocketshoes/index.html",
+    "precache-manifest.c1b78ccbb9344bbc02b12de75b7baf7c.js": "/react-rocketshoes/precache-manifest.c1b78ccbb9344bbc02b12de75b7baf7c.js",
+    "service-worker.js": "/react-rocketshoes/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/react-rocketshoes/static/css/2.d34346ea.chunk.css.map",
+    "static/js/2.b33d536a.chunk.js.LICENSE.txt": "/react-rocketshoes/static/js/2.b33d536a.chunk.js.LICENSE.txt",
+    "static/media/background.svg": "/react-rocketshoes/static/media/background.018e8960.svg",
+    "static/media/logo.svg": "/react-rocketshoes/static/media/logo.879557c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e04e932.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.b33d536a.chunk.js",
+    "static/js/main.f22e699a.chunk.js"
+  ]
+}
