@@ -2,7 +2,7 @@
   "name": "module07",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://matheus-beck.github.io/react-rocketshoes",
+  "homepage": "https://matheus-beck.github.io/react-rocketshoes/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
