@@ -10,8 +10,8 @@
 </p>
  
  <h1 align="center">
-  <img src="https://raw.githubusercontent.com/matheus-beck/react-github-repos/master/react-preview-1.png" width="700">
-  <img src="https://raw.githubusercontent.com/matheus-beck/react-github-repos/master/react-preview-2.png" width="700">
+  <img src="https://raw.githubusercontent.com/matheus-beck/react-rocketshoes/master/react-preview-1.png" width="700">
+  <img src="https://raw.githubusercontent.com/matheus-beck/react-rocketshoes/master/react-preview-2.png" width="700">
 </h1>
 
 ReactJS + Redux app developed at RocketSeat that simulates an E-commerce  
